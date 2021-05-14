@@ -1,0 +1,150 @@
+body {
+    background: url(image/1.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.block {
+    margin-left: 150px;
+    margin-top: 30px;
+    display: inline-block;
+    position: absolute;
+}
+
+.menu li {
+    margin: 0px;
+    display: inline; 
+    padding-left: 70px;
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.img {
+    margin-left: 1350px;
+    margin-top: 31px;
+    position: absolute;
+    display: inline-block;
+}
+
+.img1 {
+    margin-top: 25px;
+    margin-left: 50px;
+    display: inline-block;
+   position: absolute;
+}
+
+.block1 {
+    display: inline-block;
+    position: absolute;
+    margin-top: 47px;
+    margin-left: 690px;
+    size: 2px;
+    width: 640px;
+    opacity: 20%;
+}
+
+.text {
+    color: white;
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 65px;
+    font-size: 15px;
+}
+
+.text1 {
+    color: rgb(250, 249, 173);
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 65px;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 15px;
+    font-family: fantasy;
+}
+
+.text2 {
+    color: white;
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 65px;
+    opacity: 30%;
+    font-weight: lighter;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.button {
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 70px;
+    
+}
+
+.button1 {
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 270px;
+
+}
+
+.line {
+    border-left: 2px solid white;
+    height: 490px;
+    margin-left: 1430px;
+    margin-top: 95px;
+    opacity: 20%;
+    position: absolute;
+}
+
+.img2 {
+    margin-left: 1337px;
+    margin-top: 600px;
+    position: absolute;
+    display: inline-block;
+}
+
+.line1 {
+    position: absolute;
+    margin-top: 608px;
+    margin-left: 175px;
+   display: inline-block;
+    width: 1135px;
+    opacity: 20%;
+}
+
+.end {
+    position: absolute;
+    margin-top: 593px;
+    margin-left: 65px;
+    color: rgb(250, 249, 208);
+    font-size: 15px;
+    display: inline-block;
+}
+
+.but1 {
+    background-color: rgb(16, 15, 39);
+    color: rgb(241, 240, 148);
+    font-size: 20px;
+    width: 200px;
+    border-radius: 0 50px 50px 0;
+    height: 60px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: none;
+}
+
+.but {
+    background: transparent;
+    color: rgb(241, 240, 148);
+    border: none;
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+}
+
+.but1:hover {
+    background: rgba(0,0,0,0);
+	box-shadow: transparent;
+}
