@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+            content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible"
+            content="ie=edge">
+        <link rel="stylesheet" href="style.css">
+       
+        <title>Game of Thrones</title>
+
+
+    </head>
+    <body>
+        <div>
+            <img class="img1" src="image/logo.svg">
+        </div>
+        <div class="block">
+            <ul class="menu">
+                <li><a href="">Facts</a></li>
+                <li><a href="">Episodes</a></li>
+                <li><a href="">Characters</a></li>
+                <li><a href="">House</a></li>
+            </ul>
+        </div>
+        <div class="block1">
+            <hr>
+        </div>
+
+       <div class="img">
+        <img src="image/2.png" >
+       </div> 
+       <div class="text">
+           <p>S8E4</p>
+       </div>
+       <div class="text1">
+           <p> A Knight of the</p>
+           <p>Seven Kingdoms</p>
+       </div>
+       <div class="text2">
+           <p>The death of Jon Arryn, who serves as the Hand of the <br>King, brings King Robert Baratheon and the Lannister <br>clan north to visit the Starks at Winterfell</p>
+       </div>
+       <div class="line"></div>
+       <div class="button">
+           <button class="but"><a href="">Synopsis</a></button>
+       </div>
+       <div class="button1">
+           <button class="but1"><a href="">Watch now</a></button>
+       </div>
+       <div class="img2">
+           <img src="image/Mask Group.svg">
+       </div>
+       <div class="line1">
+           <hr>
+       </div>
+       <div class="end">
+           <p>5 May, 9 pm</p>
+       </div>
+    
+    </body>
+</html>
