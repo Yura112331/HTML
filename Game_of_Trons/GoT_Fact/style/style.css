@@ -1,0 +1,130 @@
+.section {
+    background: black;
+    background-image: url("../image/bg_image.png");
+    width: 1440px;
+    height: 794px;
+    background-size: 100% calc(100% + 91px);
+    background-position-y: -59px;
+    
+}
+.section .logo {
+    position: absolute;
+    top: 43.78px;
+    left: 71.85px;
+}
+.section .name_fact {
+    position: absolute;
+    left: 640px;
+    top: 50px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FEFFD3;
+}  
+.section .burger {
+    position: absolute;
+    top: 50px;
+    left: 1278.34px;
+}
+.section .line_left {
+    position: absolute;
+    width: 313.35px;
+    height: 0px;
+    left: 291.39px;
+    top: 62px;
+    opacity: 0.3;
+    border: 2px solid #FEFFD3;
+}
+.section .line_right {
+    position: absolute;
+    width: 410.15px;
+    height: 0px;
+    left: 831.27px;
+    top: 62px;
+    opacity: 0.3;
+    border: 2px solid #FEFFD3;
+}
+.section .body .discription {
+    position: absolute;
+    width: 585.78px;
+    height: 56.71px;
+    left: 425.11px;
+    top: 117.56px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 156.23%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #B9BCC7;
+}
+.section .body .groups .group{
+    position: absolute;
+}
+.section .body .groups .group:nth-child(1),
+.section .body .groups .group:nth-child(2),
+.section .body .groups .group:nth-child(3){
+    top: 230px;
+}
+.section .body .groups .group:nth-child(4),
+.section .body .groups .group:nth-child(5){
+    top: 441px;
+}
+.section .body .groups .group:nth-child(1),
+.section .body .groups .group:nth-child(4){
+    left: 80px;
+}
+.section .body .groups .group:nth-child(2),
+.section .body .groups .group:nth-child(5){
+    left: 518px;
+}
+.section .body .groups .group:nth-child(3){
+    left: 953px;
+}
+.section .body .groups .group img {
+    padding: 0 140px;
+}
+.section .body .groups .group p {
+    padding: 17px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #B9BCC7;
+}
+.section .body .button {
+    position: absolute;
+    top: 501px;
+    left: 1063px;
+    height: 61px;
+    width: 188px;
+    background: #04162B;
+    border-radius: 3px 30px 30px 3px;
+    font-size: 16px;
+    line-height: 25px;
+    color: #FEFFD3;
+}
+.section .footer .img_left {
+    position: absolute;
+    top: 715px;
+    left: 60px;
+}
+.section .footer .img_right {
+    position: absolute;
+    top: 715px;
+    left: 1250px;
+}
+.section .footer .line_botton {
+    position: absolute;
+    width: 1018.88px;
+    height: 0px;
+    left: 212.56px;
+    top: 721px;
+    opacity: 0.3;
+    border: 2px solid #FEFFD3;
+}
