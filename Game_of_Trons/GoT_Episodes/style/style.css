@@ -1,0 +1,150 @@
+.bg-image{
+    background: url("../image/bg_image.png");
+    width: 1440px;
+    height: 800px;
+}
+
+header .logo {
+    position: absolute;
+    left: 71px;
+    top: 41px;
+}
+
+header .burger {
+    position: absolute;
+    left: 1282px;
+    top: 46px;
+}
+
+header .episodes {
+    position: absolute;
+    top: 49px;
+    left: 657px;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FEFFD3;
+}
+
+header .line-left {
+    position: absolute;
+    width: 321px;
+    height: 0px;
+    left: 285px;
+    top: 62px;
+    opacity: 0.3;
+    border: 2px solid #FEFFD3;
+}
+
+header .line-right {
+    position: absolute;
+    width: 410px;
+    height: 0px;
+    left: 834px;
+    top: 62px;
+    opacity: 0.3;
+    border: 2px solid #FEFFD3;
+}
+
+.body .discription {
+    position: absolute;
+    width: 419px;
+    height: 62px;
+    left: 80px;
+    top: 170px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 156.23%;
+    color: #B9BCC7;
+}
+
+.body .left-block {
+    position: absolute;
+    top: 292px;
+    left: 50px;
+    width: 455px;
+    height: 323px;
+}
+
+.body .centr-block {
+    position: absolute;
+    top: 292px;
+    left: 487px;
+    width: 455px;
+    height: 323px;
+}
+
+.body .right-block {
+    position: absolute;
+    top: 292px;
+    left: 954px;
+    width: 455px;
+    height: 323px;
+}
+
+.body .block-text {
+    position: absolute;
+    width: 250px;
+    height: 106px;
+    top: 139px;
+    left: 159px;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #B9BCC7;
+}
+
+.body .part {
+    position: absolute;
+    top: 257px;
+    left: 30px;
+    font-size: 18px;
+    line-height: 156.23%;
+    color: #FEFFD3;
+}
+
+.body .button-left {
+    position: absolute;
+    left: 50px;
+    top: 320px;
+    width: 188px;
+    height: 60px;
+    font-size: 14px;
+    color: #B9BCC7;
+    background: transparent;
+    border: none;
+}
+
+.body .button-right {
+    position: absolute;
+    left: 250px;
+    top: 320px;
+    height: 61px;
+    width: 188px;
+    background: #04162B;
+    border-radius: 3px 30px 30px 3px;
+    border: none;
+    font-size: 16px;
+    color: #FEFFD3;
+}
+
+.footer .mask {
+    position: absolute;
+    left: 60.71px;
+    top: 718px;
+}
+
+.footer .line-botton {
+    position: absolute;
+    width: 1085px;
+    height: 0px;
+    left: 190px;
+    top: 725px;
+    opacity: 0.3;
+    border: 2px solid #FEFFD3;
+}
+
+.footer .bow {
+    position: absolute;
+    left: 1308px;
+    top: 710px;
+}

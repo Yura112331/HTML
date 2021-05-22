@@ -1,0 +1,181 @@
+.section .bg-img {
+  background: url("../image/bg_image.png");
+  position: absolute;
+  width: 1440px;
+  height: 2001px;
+}
+
+.section .logo {
+  position: absolute;
+  top: 43.78px;
+  left: 71.85px;
+}
+
+.section .characters {
+  position: absolute;
+  left: 640px;
+  top: 50px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 42px;
+  color: #feffd3;
+}
+
+.section .burger {
+  position: absolute;
+  top: 50px;
+  left: 1278.34px;
+}
+
+.section .line-left {
+  position: absolute;
+  width: 313.35px;
+  height: 0px;
+  left: 291.39px;
+  top: 62px;
+  opacity: 0.3;
+  border: 2px solid #feffd3;
+}
+
+.section .line-right {
+  position: absolute;
+  width: 410.15px;
+  height: 0px;
+  left: 831.27px;
+  top: 62px;
+  opacity: 0.3;
+  border: 2px solid #feffd3;
+}
+
+.body .img1 {
+  position: absolute;
+  left: 845px;
+  top: 177px;
+}
+
+.body .img2 {
+  position: absolute;
+  left: 845px;
+  top: 930px;
+}
+
+.body .img3 {
+  position: absolute;
+  left: 845px;
+  top: 1298px;
+}
+
+.body .characters {
+  position: absolute;
+  top: 177px;
+  left: 417px;
+}
+
+.body h1 {
+  position: absolute;
+  left: 305px;
+  top: 279px;
+  font-size: 64px;
+  color: #b9bcc7;
+}
+
+.body .p1 {
+  position: absolute;
+  width: 407px;
+  height: 104px;
+  left: 80px;
+  top: 394px;
+  font-size: 14px;
+  line-height: 160%;
+  color: #b9bcc7;
+}
+
+.body .p2 {
+  position: absolute;
+  width: 406px;
+  height: 80px;
+  left: 517px;
+  top: 400px;
+  font-size: 14px;
+  line-height: 160%;
+  color: #b9bcc7;
+}
+
+.body .p3 {
+  position: absolute;
+  width: 735px;
+  height: 302px;
+  left: 79px;
+  top: 548px;
+  font-size: 14px;
+  line-height: 160%;
+  color: #b9bcc7;
+}
+
+.body .p4 {
+  position: absolute;
+  width: 143px;
+  height: 18px;
+  left: 80px;
+  top: 903px;
+  font-size: 24px;
+  line-height: 156.23%;
+  color: #b9bcc7;
+}
+
+.body .p5 {
+  position: absolute;
+  width: 735px;
+  height: 214px;
+  left: 79px;
+  top: 948px;
+  font-size: 14px;
+  line-height: 160%;
+  color: #b9bcc7;
+}
+
+.body .p6 {
+  position: absolute;
+  width: 115px;
+  height: 18px;
+  left: 80px;
+  top: 1250px;
+  font-size: 24px;
+  line-height: 156.23%;
+  color: #b9bcc7;
+}
+
+.body .p7 {
+  position: absolute;
+  width: 735px;
+  height: 214px;
+  left: 79px;
+  top: 1298px;
+  font-size: 14px;
+  line-height: 160%;
+  color: #b9bcc7;
+}
+
+.body .p8 {
+  position: absolute;
+  width: 735px;
+  height: 214px;
+  left: 79px;
+  top: 1512px;
+  font-size: 14px;
+  line-height: 160%;
+  color: #b9bcc7;
+}
+
+.body .p9 {
+  position: absolute;
+  width: 735px;
+  height: 214px;
+  left: 79px;
+  top: 1726px;
+  font-size: 14px;
+  line-height: 160%;
+  color: #b9bcc7;
+}
